@@ -1,3 +1,4 @@
 ^test\.lint\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
+^\.github$
